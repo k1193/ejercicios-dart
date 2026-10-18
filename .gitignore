@@ -1,0 +1,9 @@
+# Archivos de Claude Code (no forman parte del taller)
+CLAUDE.md
+.claude/
+
+# Borradores previos del código (se pasan al proyecto por fases)
+paso*.dart
+
+# Configuración local del editor
+.vscode/
